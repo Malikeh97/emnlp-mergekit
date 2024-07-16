@@ -160,7 +160,7 @@ Initial value of sigma for CMA-ES. No need to play with this unless you really k
 ### Example
 
 ```sh
-mergekit-evolve --strategy pool --wandb --wandb-project mergekit-evolve --wandb-entity arcee-ai --storage-path /path/to/mergekit-evolve/ ./config.yml
+mergekit-evolve --strategy pool --wandb --wandb-project mergekit-evolve --wandb-entity [wandb entity name will be added in the camera-ready version] --storage-path /path/to/mergekit-evolve/ ./config.yml
 ```
 
 ## Output
