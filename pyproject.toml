@@ -32,7 +32,7 @@ evolve = ["ray", "cma", "lm_eval", "wandb"]
 vllm = ["vllm==0.3.2", "lm_eval[vllm]"]
 
 [project.urls]
-repository = "https://github.com/cg123/mergekit"
+repository = "The repo link will be added in the camera ready version"
 
 
 [project.scripts]
