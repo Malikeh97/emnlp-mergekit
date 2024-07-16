@@ -18,6 +18,8 @@ Features:
 
 ## Installation
 
+**Reminder:** We removed all the repo links from this project to follow anonymity guidelines. It will be updated in the camera-ready version. To run the codes in this repo, make sure to update the `repository` url (line 35) in the `pyproject.toml` file.
+
 ```sh
 git clone [The link to our github repo will be linked in the camera-ready version]
 cd mergekit
