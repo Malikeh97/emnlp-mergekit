@@ -12,14 +12,14 @@ Features:
 - Piecewise assembly of language models from layers ("Frankenmerging")
 - [Mixture of Experts merging](#mixture-of-experts-merging)
 
-🔊 Call to Evolve - to solve evolutionary merge methods as a community - please see <https://github.com/arcee-ai/mergekit/issues/207>.
+🔊 Call to Evolve - to solve evolutionary merge methods as a community - please see [Issue will be linked in the camera-ready version].
 
-🌐 GUI Launch Alert 🤗 - We are excited to announce the launch of a graphical user interface for mergekit in Hugging Face Spaces! This GUI simplifies the merging process, making it more accessible to a broader audience. Check it out and contribute at [Hugging Face Spaces - mergekit-community](https://huggingface.co/mergekit-community).
+🌐 GUI Launch Alert 🤗 - We are excited to announce the launch of a graphical user interface for mergekit in Hugging Face Spaces! This GUI simplifies the merging process, making it more accessible to a broader audience. Check it out and contribute at [Hugging Face Spaces - mergekit-community (The link will be added in the camera-ready version)].
 
 ## Installation
 
 ```sh
-git clone https://github.com/arcee-ai/mergekit.git
+git clone [The link to our github repo will be linked in the camera-ready version]
 cd mergekit
 
 pip install -e .  # install the package and make scripts available
