@@ -8,7 +8,7 @@ description = "Tools for merging pre-trained large language models"
 readme = "README.md"
 license = { text = "LGPL-3.0-or-later" }
 version = "0.0.4.4"
-authors = [{ name = "Author Name", email = "-@gmail.com" }]
+authors = [{ name = "Author Name", email = "Author Email Address" }]
 dependencies = [
     "torch>=2.0.0",
     "tqdm==4.66.4",
