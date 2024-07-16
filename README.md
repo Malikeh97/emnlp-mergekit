@@ -21,7 +21,7 @@ Features:
 **Reminder:** We removed all the repo links from this project to follow anonymity guidelines. The links will be updated in the camera-ready version. To run the codes in this repo, make sure to update the `repository` url (line 35) in the `pyproject.toml` file.
 
 ```sh
-git clone [The link to our github repo will be linked in the camera-ready version]
+git clone [The link to our github repo will be added in the camera-ready version]
 cd mergekit
 
 pip install -e .  # install the package and make scripts available
