@@ -203,15 +203,3 @@ mergekit-extract-lora finetuned_model_id_or_path base_model_id_or_path output_pa
 
 The `mergekit-moe` script supports merging multiple dense models into a mixture of experts, either for direct use or for further training. For more details see the [`mergekit-moe` documentation](docs/moe.md).
 
-## Citation
-
-We now have a [paper](https://arxiv.org/abs/2403.13257) you can cite for the MergeKit library:
-
-```bibtex
-@article{goddard2024arcee,
-  title={Arcee's MergeKit: A Toolkit for Merging Large Language Models},
-  author={Goddard, Charles and Siriwardhana, Shamane and Ehghaghi, Malikeh and Meyers, Luke and Karpukhin, Vlad and Benedict, Brian and McQuade, Mark and Solawetz, Jacob},
-  journal={arXiv preprint arXiv:2403.13257},
-  year={2024}
-}
-```
