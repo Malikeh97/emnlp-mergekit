@@ -12,7 +12,7 @@ Features:
 - Piecewise assembly of language models from layers ("Frankenmerging")
 - [Mixture of Experts merging](#mixture-of-experts-merging)
 
-🔊 Call to Evolve - to solve evolutionary merge methods as a community - please see [Issue will be linked in the camera-ready version].
+🔊 Call to Evolve - to solve evolutionary merge methods as a community - please see [Issue will be added in the camera-ready version].
 
 🌐 GUI Launch Alert 🤗 - We are excited to announce the launch of a graphical user interface for mergekit in Hugging Face Spaces! This GUI simplifies the merging process, making it more accessible to a broader audience. Check it out and contribute at [Hugging Face Spaces - mergekit-community (The link will be added in the camera-ready version)].
 
