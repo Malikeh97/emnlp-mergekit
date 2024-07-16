@@ -7,7 +7,7 @@
 Install `mergekit` with the `evolve` (and optionally `vllm`) features:
 
 ```sh
-git clone https://github.com/arcee-ai/mergekit.git
+git clone [The link to current github repo will be added in he camera-ready version]
 cd mergekit
 
 pip install -e .[evolve,vllm]
